@@ -1,1 +1,1 @@
-# Apple-and-Orange-algo
+# Apple-and-Orange-algo This program counts how many apples and oranges fall on a house located between points s and t. It calculates each fruit’s landing position relative to its tree, checks if it lies within the house range, and then prints the counts for apples and oranges separately.
